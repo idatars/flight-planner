@@ -1,0 +1,192 @@
+An airport with that name already exists!
+Flight plan 1:
+	Duration:	1 hours
+	   Price:	$100
+	    Pain:	120
+	 Details:
+		Toronto->Montreal
+			Flight C, 1 hours, $100
+Flight plan 1:
+	Duration:	9 hours
+	   Price:	$800
+	    Pain:	4127
+	 Details:
+		Orlando->Toronto
+			Flight A, 3 hours, $300
+		Toronto->Vancouver
+			Flight F, 5 hours, $500
+Flight plan 2:
+	Duration:	11 hours
+	   Price:	$900
+	    Pain:	6687
+	 Details:
+		Orlando->NY
+			Flight S, 3 hours, $300
+		NY->Toronto
+			Flight D, 1 hours, $100
+		Toronto->Vancouver
+			Flight F, 5 hours, $500
+Flight plan 3:
+	Duration:	16 hours
+	   Price:	$1200
+	    Pain:	22186
+	 Details:
+		Orlando->Toronto
+			Flight A, 3 hours, $300
+		Toronto->Chicago
+			Flight B, 2 hours, $200
+		Chicago->SF
+			Flight M, 4 hours, $400
+		SF->Seattle
+			Flight p, 2 hours, $200
+		Seattle->Vancouver
+			Flight G, 1 hours, $100
+Flight plan 4:
+	Duration:	16 hours
+	   Price:	$1200
+	    Pain:	22186
+	 Details:
+		Orlando->Toronto
+			Flight A, 3 hours, $300
+		Toronto->Chicago
+			Flight B, 2 hours, $200
+		Chicago->Dallas
+			Flight O, 2 hours, $200
+		Dallas->Seattle
+			Flight K, 4 hours, $400
+		Seattle->Vancouver
+			Flight G, 1 hours, $100
+Flight plan 5:
+	Duration:	18 hours
+	   Price:	$1300
+	    Pain:	34610
+	 Details:
+		Orlando->NY
+			Flight S, 3 hours, $300
+		NY->Toronto
+			Flight D, 1 hours, $100
+		Toronto->Chicago
+			Flight B, 2 hours, $200
+		Chicago->SF
+			Flight M, 4 hours, $400
+		SF->Seattle
+			Flight p, 2 hours, $200
+		Seattle->Vancouver
+			Flight G, 1 hours, $100
+Flight plan 6:
+	Duration:	18 hours
+	   Price:	$1300
+	    Pain:	34610
+	 Details:
+		Orlando->NY
+			Flight S, 3 hours, $300
+		NY->Toronto
+			Flight D, 1 hours, $100
+		Toronto->Chicago
+			Flight B, 2 hours, $200
+		Chicago->Dallas
+			Flight O, 2 hours, $200
+		Dallas->Seattle
+			Flight K, 4 hours, $400
+		Seattle->Vancouver
+			Flight G, 1 hours, $100
+Flight plan 1:
+	Duration:	9 hours
+	   Price:	$800
+	    Pain:	4127
+	 Details:
+		Vancouver->Toronto
+			Flight F, 5 hours, $500
+		Toronto->Orlando
+			Flight A, 3 hours, $300
+Flight plan 2:
+	Duration:	11 hours
+	   Price:	$900
+	    Pain:	6687
+	 Details:
+		Vancouver->Toronto
+			Flight F, 5 hours, $500
+		Toronto->NY
+			Flight D, 1 hours, $100
+		NY->Orlando
+			Flight S, 3 hours, $300
+Flight plan 3:
+	Duration:	16 hours
+	   Price:	$1200
+	    Pain:	22186
+	 Details:
+		Vancouver->Seattle
+			Flight G, 1 hours, $100
+		Seattle->Dallas
+			Flight K, 4 hours, $400
+		Dallas->Chicago
+			Flight O, 2 hours, $200
+		Chicago->Toronto
+			Flight B, 2 hours, $200
+		Toronto->Orlando
+			Flight A, 3 hours, $300
+Flight plan 4:
+	Duration:	16 hours
+	   Price:	$1200
+	    Pain:	22186
+	 Details:
+		Vancouver->Seattle
+			Flight G, 1 hours, $100
+		Seattle->SF
+			Flight p, 2 hours, $200
+		SF->Chicago
+			Flight M, 4 hours, $400
+		Chicago->Toronto
+			Flight B, 2 hours, $200
+		Toronto->Orlando
+			Flight A, 3 hours, $300
+Flight plan 5:
+	Duration:	18 hours
+	   Price:	$1300
+	    Pain:	34610
+	 Details:
+		Vancouver->Seattle
+			Flight G, 1 hours, $100
+		Seattle->Dallas
+			Flight K, 4 hours, $400
+		Dallas->Chicago
+			Flight O, 2 hours, $200
+		Chicago->Toronto
+			Flight B, 2 hours, $200
+		Toronto->NY
+			Flight D, 1 hours, $100
+		NY->Orlando
+			Flight S, 3 hours, $300
+Flight plan 6:
+	Duration:	18 hours
+	   Price:	$1300
+	    Pain:	34610
+	 Details:
+		Vancouver->Seattle
+			Flight G, 1 hours, $100
+		Seattle->SF
+			Flight p, 2 hours, $200
+		SF->Chicago
+			Flight M, 4 hours, $400
+		Chicago->Toronto
+			Flight B, 2 hours, $200
+		Toronto->NY
+			Flight D, 1 hours, $100
+		NY->Orlando
+			Flight S, 3 hours, $300
+Flight plan 1:
+	Duration:	1 hours
+	   Price:	$100
+	    Pain:	120
+	 Details:
+		Toronto->NY
+			Flight D, 1 hours, $100
+Flight plan 2:
+	Duration:	7 hours
+	   Price:	$600
+	    Pain:	2149
+	 Details:
+		Toronto->Orlando
+			Flight A, 3 hours, $300
+		Orlando->NY
+			Flight S, 3 hours, $300

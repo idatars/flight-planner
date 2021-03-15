@@ -1,0 +1,28 @@
+a Orlando
+a Dallas
+a NY
+a SF
+a Seattle
+a Toronto
+a Toronto
+a Vancouver
+a Chicago
+a Calgary
+a Montreal
+
+f Toronto Orlando 3 300 A
+f Toronto Chicago 2 200 B
+f Toronto Montreal 1 100 C
+f Toronto NY 1 100 D
+f Toronto Vancouver 5 500 F
+f Vancouver Seattle 1 100 G
+f Seattle Dallas 4 400 K
+f SF Chicago 4 400 M
+f Dallas Chicago 2 200 O
+f SF Seattle 2 200 p
+f Orlando NY 3 300 S
+
+p Toronto Montreal
+p Orlando Vancouver
+p Vancouver Orlando
+p Toronto NY
